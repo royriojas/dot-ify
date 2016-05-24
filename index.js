@@ -4,7 +4,8 @@ var dotCompiler = require( './dot-compiler' );
 var options = {
   includeExtensions: [
     '.dot',
-    '.tpl'
+    '.tpl',
+    '.jst'
   ]
 };
 
